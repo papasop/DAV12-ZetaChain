@@ -1,0 +1,9 @@
+{
+  "weights": {
+    "structure": 0.6,
+    "modal": 0.3,
+    "zeta": 0.1
+  },
+  "description": "可调式组合奖励机制权重。structure 为主结构评分，modal 为模态路径影响力，zeta 为零点拟合加成，可通过 DAO 或优化器动态调节。"
+}
+
